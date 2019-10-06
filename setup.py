@@ -21,7 +21,7 @@ setup(
     zip_safe=False,
     keywords="floyd",
     install_requires=[
-        "click>=6.7,<7",
+        "click>=7",
         "clint>=0.5.1,<1",
         "requests>=2.12.4,<3",
         "requests-toolbelt>=0.7.1,<1",
